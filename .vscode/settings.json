@@ -1,0 +1,6 @@
+{
+	"editor.formatOnSave": true,
+	"prettier.configPath": "/Users/d-yahorau/Desktop/Projects/pet-projects/videohub/videohub-client/.prettierrc.json",
+	"prettier.prettierPath": "/Users/d-yahorau/Desktop/Projects/pet-projects/videohub/videohub-client/node_modules/prettier",
+	"prettier.requireConfig": false
+}
